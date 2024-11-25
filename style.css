@@ -54,6 +54,7 @@ ul {
 
 .card_picture {
   padding: 0;
+  width: 170px;
   height: 170px;
   border-radius: 8px;
 }
@@ -70,6 +71,5 @@ ul {
   height: 170px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  gap: 4px;
+  justify-content: space-around;
 }
