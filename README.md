@@ -8,6 +8,8 @@
 
 ## Overview
 
+A simple beautiful and responsive articles list challenge from **DevChallenges.io**
+
 ![screenshot](./thumbnail.jpg)
 
 ### Built with
